@@ -150,7 +150,6 @@ The dataset contains **270 rows** and **17 columns** capturing patient demograph
 - **Microsoft Power BI** — Dashboard design and interactive visualizations
 - **Microsoft Excel** — Dataset storage and initial inspection
 - **Kaggle** — Dataset source platform
-- **UCI Heart Disease Dataset** — Original clinical data (sourced via Kaggle)
 
 ---
 
