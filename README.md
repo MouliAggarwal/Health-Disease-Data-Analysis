@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-Heart disease is one of the leading causes of mortality worldwide. This project explores a clinical dataset of **270 patients** to uncover patterns and risk factors associated with the presence or absence of heart disease. The dashboard was built in **Power BI** and provides a multi-dimensional view across age, gender, cholesterol levels, exercise habits, blood sugar, and diagnostic test results.The dataset was sourced from **[Kaggle](https://www.kaggle.com/)**
+Heart disease is one of the leading causes of mortality worldwide. This project explores a clinical dataset of **270 patients** to uncover patterns and risk factors associated with the presence or absence of heart disease. The dashboard was built in **Power BI** and provides a multi-dimensional view across age, gender, cholesterol levels, exercise habits, blood sugar, and diagnostic test results.The dataset was sourced from Kaggle.
 ---
 
 ## 📂 Dataset Description
