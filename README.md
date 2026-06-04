@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Analysis Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://1drv.ms/i/c/fec36adf1d9e6ef2/IQAXpKPJhJDpR6sBIeVmfQTlAQzjXedyoy3EleXdwDt3NkE?e=EqHHco)
 
 > An interactive Power BI dashboard analyzing clinical and demographic patterns in heart disease patients, built on the UCI Heart Disease dataset.
 
