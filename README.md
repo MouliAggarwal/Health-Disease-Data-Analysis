@@ -145,57 +145,12 @@ The dataset contains **270 rows** and **17 columns** capturing patient demograph
 
 ---
 
-## 🔍 Key Findings Summary
-
-| Insight | Detail |
-|---|---|
-| **Heart disease prevalence** | 44.4% of patients show presence |
-| **High-risk age group** | 55–65 years |
-| **Gender skew** | 68% male in the dataset |
-| **Cholesterol** | Average ~250 mg/dL — borderline high |
-| **Angina as predictor** | Patients with exercise angina show far higher disease presence |
-| **Thallium test** | 56.3% have reversible defects — indicating treatable coronary conditions |
-| **Fasting blood sugar** | A notable minority have high FBS, indicating diabetic risk overlap |
-
----
-
 ## 🛠 Tools Used
 
 - **Microsoft Power BI** — Dashboard design and interactive visualizations
 - **Microsoft Excel** — Dataset storage and initial inspection
 - **Kaggle** — Dataset source platform
 - **UCI Heart Disease Dataset** — Original clinical data (sourced via Kaggle)
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/heart-disease-dashboard.git
-   ```
-2. Open `Heart_Disease_dataset.xlsx` to explore the raw data
-3. Open the `.pbix` file in Power BI Desktop to interact with the dashboard
-4. Use the **Age of Patients** and **Gender of Patients** slicers to filter the visuals dynamically
-
----
-
-## 📁 Repository Structure
-
-```
-heart-disease-dashboard/
-│
-├── Heart_Disease_dataset.xlsx    # Raw dataset
-├── HeartDiseaseDashboard.pbix    # Power BI dashboard file
-├── dashboard_preview.png         # Dashboard screenshot
-└── README.md                     # Project documentation
-```
-
----
-
-## 🙋 About This Project
-
-This project was created as part of a data analytics portfolio to demonstrate skills in data visualization, clinical data interpretation, and dashboard design. Feedback and suggestions are welcome!
 
 ---
 
