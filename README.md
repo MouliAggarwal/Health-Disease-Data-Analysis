@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Analysis Dashboard
+# Heart Disease Analysis Dashboard
 
 <img width="700" height="394" alt="Heart Disease Analysis Dashboard" src="https://github.com/user-attachments/assets/af5b99bc-7a6d-45c3-9112-5dc2a8ca2acc" />
 
@@ -7,12 +7,12 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Heart disease is one of the leading causes of mortality worldwide. This project explores a clinical dataset of **270 patients** to uncover patterns and risk factors associated with the presence or absence of heart disease. The dashboard was built in **Power BI** and provides a multi-dimensional view across age, gender, cholesterol levels, exercise habits, blood sugar, and diagnostic test results.The dataset was sourced from Kaggle.
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains **270 rows** and **17 columns** capturing patient demographics and clinical measurements.
 
@@ -36,7 +36,7 @@ The dataset contains **270 rows** and **17 columns** capturing patient demograph
 
 ---
 
-## 📊 Dashboard Walkthrough
+## Dashboard Walkthrough
 
 ### 1. Heart Disease Status (KPI Cards)
 
@@ -146,7 +146,7 @@ The dataset contains **270 rows** and **17 columns** capturing patient demograph
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Power BI** — Dashboard design and interactive visualizations
 - **Microsoft Excel** — Dataset storage and initial inspection
